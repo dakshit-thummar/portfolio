@@ -6,7 +6,7 @@
 
 - **Name:** Daksh
 - **Location:** Rajkot, Gujarat, India (UTC+5:30)
-- **Email:** gmail.com
+- **Email:** thummardk9@gmail.com
 - **Availability:** Immediately
 - **Day rate ranges:** Indian-market (₹) for India clients, USD for international — discussed on intro call
 - **Current capacity:** ~25 hrs/week available
@@ -35,16 +35,18 @@ Pricing: Fixed per consult.
 
 ## What I'm a good fit for
 
-- Django (or Django REST Framework) backends
+- Python backends in **Django**, **FastAPI**, or **Flask** — I pick the framework that fits the job rather than forcing one
+- Async REST APIs at scale (FastAPI + Pydantic + asyncio)
 - Multi-tenant SaaS products
-- Real-time features (chat, notifications, live dashboards) via Channels
+- Real-time features (chat, notifications, live dashboards) via Channels or WebSockets
 - Stripe / Razorpay billing
 - Web scraping / automation services
-- Computer vision pipelines (face recognition, OCR, image classification)
+- Computer vision pipelines (face recognition, OCR, image classification) — wrapping Python ML libraries as Flask / FastAPI services
+- Multi-LLM AI integrations (Anthropic, OpenAI, Perplexity, Gemini) with built-in web search
 - Custom invoicing / booking / CRM tools
 - API integrations (third-party REST APIs, OAuth, webhooks)
 - Docker deployments to VPS / Railway / Render / Fly
-- Code review on existing Django codebases
+- Code review on existing Python (Django / FastAPI / Flask) codebases
 
 ## What I'm not the best fit for
 
@@ -56,7 +58,7 @@ Pricing: Fixed per consult.
 
 ## How to start a conversation
 
-1. Email **gmail.com** with a one-paragraph description of what you need and your timeline.
+1. Email **thummardk9@gmail.com** with a one-paragraph description of what you need and your timeline.
 2. I respond within 24 hours with whether I'm available + a few clarifying questions.
 3. If we're a fit, we book a free 30-minute discovery call (Google Meet / Zoom / phone).
 4. I send a written proposal within 2 days of the call.

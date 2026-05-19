@@ -2,26 +2,36 @@
 
 > Mapped to the projects in this portfolio. If you're hiring me for X, the projects in the X column show I've actually shipped it.
 
-## Core backend
+## Python web frameworks
+
+| Framework | Confidence | Where I use it |
+|---|---|---|
+| **Django** (5+) | Expert | All 6 Django portfolio projects, plus Vivansh Infotech |
+| **FastAPI** | Expert | Digipie Technologies — current daily driver. Async REST APIs, workflow services, Pydantic models, OpenAPI docs |
+| **Flask** | Expert | Coretus + Vivansh — real-time CV pipelines, lightweight microservices, ML model wrappers |
+| Django REST Framework | Expert | SaaS Starter |
+
+## Core backend (cross-framework)
 
 | Skill | Confidence | Demonstrated in |
 |---|---|---|
-| Django (5+) | Expert | All 6 projects |
-| Django REST Framework | Expert | SaaS Starter |
 | Custom user models, email-based auth | Expert | SaaS Starter, Realtime Chat |
-| ORM design (FKs, M2M, unique constraints, indexes) | Expert | All 6 — especially Booking System (8 interrelated models) |
+| ORM design (FKs, M2M, unique constraints, indexes) | Expert | All 6 Django projects — especially Booking System (8 interrelated models) |
+| Pydantic models (validation, serialization, settings) | Expert | FastAPI work at Digipie |
 | Forms + ModelForms + inline formsets | Expert | Booking, Invoice, SaaS Starter |
 | Custom decorators + permission classes | Expert | Booking provider portal |
 | Signals + side effects | Solid | SaaS Starter, Booking |
-| Query optimization (select_related, prefetch_related, indexes) | Expert | All 6 |
-| Caching (per-view, query, low-level) | Solid | Available on request |
-| Migrations (custom, data migrations, squashing) | Expert | All 6 |
+| Query optimization (select_related, prefetch_related, indexes) | Expert | All 6 Django projects |
+| Async / await (FastAPI, asyncio, async DB drivers) | Expert | FastAPI work at Digipie |
+| Caching (per-view, query, Redis-backed) | Solid | Available on request |
+| Migrations (Alembic for FastAPI, Django migrations) | Expert | All projects |
 
 ## API & integration
 
 | Skill | Confidence | Demonstrated in |
 |---|---|---|
-| REST API design | Expert | SaaS Starter |
+| REST API design (sync + async, versioning, pagination) | Expert | SaaS Starter (DRF), Digipie (FastAPI), Coretus (Flask) |
+| OpenAPI / Swagger docs auto-generation | Expert | FastAPI work at Digipie |
 | JWT authentication (access + refresh) | Expert | SaaS Starter |
 | OpenAPI / Swagger docs | Solid | Available on request |
 | Stripe (checkout, webhooks, subscriptions) | Expert | SaaS Starter |

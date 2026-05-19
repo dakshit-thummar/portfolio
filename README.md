@@ -1,14 +1,14 @@
-# Daksh — Freelance Python / Django Portfolio
+# Daksh — Freelance Python Backend Developer
 
-> Backend & full-stack developer · 3+ years building production Django applications · Rajkot, Gujarat
+> Python backend developer · 3+ years across **Django**, **FastAPI**, and **Flask** · Rajkot, Gujarat
 
-I build Django web applications end-to-end: data modelling, REST APIs, real-time features, payment integrations, computer vision, web scraping, and the polished admin UIs that hold them together.
+I build Python web applications end-to-end: data modelling, REST APIs (sync and async), real-time features, payment integrations, computer vision, web scraping, and the polished admin UIs that hold them together. Comfortable picking the right framework for the job — Django for full-stack web apps and SaaS, FastAPI for async-heavy API services, Flask for minimal microservices and CV/ML model wrappers.
 
-This portfolio walks through six self-contained projects that demonstrate the work I do for freelance clients. **Source code is in private repos** — I share access on request after a brief NDA / scope conversation, or I rebuild the same patterns inside your codebase if you'd rather start clean.
+This portfolio walks through **seven self-contained projects** that demonstrate the work I do for freelance clients. **Source code is in private repos** — I share access on request after a brief NDA / scope conversation, or I rebuild the same patterns inside your codebase if you'd rather start clean.
 
 **Available for:** part-time freelance contracts (15–25 hrs/week), short fixed-scope builds, code reviews, and architecture consults.
 
-📧 **gmail.com** · 📍 Rajkot, Gujarat · ⏱️ Available immediately
+📧 **thummardk9@gmail.com** · 📍 Rajkot, Gujarat · ⏱️ Available immediately
 
 ---
 
@@ -34,7 +34,7 @@ Combined: ~136 Python files plus ~35 KB of React/JSX, ~3,400 lines of Python, ~2
 
 See the [skills matrix](./SKILLS.md) for the full list, but in short:
 
-**Backend** — Django (5+ years exposure, 3+ pro), Django REST Framework, FastAPI, Flask, custom user models, JWT auth, multi-tenancy, role-based permissions, complex form/formset workflows, signal-based side effects, query optimization, database design (PostgreSQL, MySQL, MongoDB).
+**Backend** — Python web frameworks across the spectrum: **Django** (5+ years exposure, 3+ years professional — workhorse for full-stack apps and SaaS, see all 6 Django projects in this portfolio), **FastAPI** (current daily driver at Digipie — async REST APIs, workflow services, Pydantic-validated request/response models, OpenAPI docs out of the box), **Flask** (used at Coretus and Vivansh — minimal microservices, real-time CV/ML pipelines, lightweight wrappers around Python libraries). Plus Django REST Framework, custom user models, JWT auth, multi-tenancy, role-based permissions, complex form/formset workflows, signal-based side effects, query optimization, database design (PostgreSQL, MySQL, MongoDB).
 
 **Async & real-time** — Celery + Redis for background jobs and scheduled tasks, Django Channels + Daphne for WebSockets and group broadcasts, async consumers, message queues.
 
@@ -101,7 +101,7 @@ Backend with Flask + Django, REST APIs, structured data processing, database sys
 
 ## Get in touch
 
-📧 **gmail.com**
+📧 **thummardk9@gmail.com**
 📱 Available on WhatsApp
 💻 Source repos shared on request after a brief intro call
 🧠 Free 30-minute discovery call if you want to talk through your project
